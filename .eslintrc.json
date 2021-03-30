@@ -4,14 +4,14 @@
     "browser": true
   },
   "rules": {
-    "no-console": "off",
-    "no-alert": "off",
-    "comma-dangle": "off",
-    "quotes": "off",
-    "no-unused-vars": "off",
-    "no-param-reassign": "off",
     "class-methods-use-this": "off",
-    "import/prefer-default-export": "off",
-    "prefer-destructuring": "off"
+    "comma-dangle": "off",
+    "no-alert": "off",
+    "no-console": "off",
+    "no-param-reassign": "off",
+    "no-unused-vars": "off",
+    "prefer-destructuring": "off",
+    "quotes": "off",
+    "import/prefer-default-export": "off"
   }
 }
